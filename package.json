@@ -1,0 +1,10 @@
+
+{
+    "name": "discord-hook-time",
+    "dependencies": {
+        "request" : "^2.88.2"
+    },
+    "version": "Not UpDate",
+    "author": "TinnerKun",
+    "homepage": "https://cszteam.me"
+}
